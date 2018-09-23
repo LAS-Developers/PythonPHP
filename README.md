@@ -1,2 +1,2 @@
 # PythonPHP
-Simple Python and PHP Scripts
+Simple Python and PHP Code snippets
